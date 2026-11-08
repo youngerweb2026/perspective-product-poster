@@ -1,0 +1,10 @@
+请帮我安装 GitHub 上的「大透视产品海报」（perspective-product-poster）Skill。
+
+仓库：https://github.com/youngerweb2026/perspective-product-poster
+Skill 目录：skills/perspective-product-poster
+
+请先识别当前系统和本 Agent 实际支持的用户级 Skills 安装目录，优先使用原生 Skill 安装器。完整安装 skills/perspective-product-poster 目录，保留 SKILL.md 和 agents/openai.yaml，不要只复制一个文件。如果原生安装器不可用，可根据当前环境使用 Git 或下载仓库 ZIP 的方式安装；没有自定义 Skills 支持时请如实说明。
+
+如果已经安装同名 Skill，先比较文件；内容相同则保留，内容不同时备份现有版本后更新，不影响其他 Skill。完成后核对文件完整性，告知实际安装位置、调用方式及是否需要重新加载。
+
+只执行安装，不进行产品分析或图片生成。

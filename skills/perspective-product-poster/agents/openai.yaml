@@ -1,0 +1,4 @@
+interface:
+  display_name: "大透视产品海报"
+  short_description: "先确认潮流视觉方向，再以极近距离超广角生成无新增文案的2:3竖版强透视产品海报"
+  default_prompt: "用 $perspective-product-poster，根据我提供的产品图制作一张 2:3 竖版大透视海报；先确认有冲击力、视觉张力与潮流感的风格，再补齐人物和极近距离超广角方案，展示完整中文提示词后自动用 Codex 内置生图生成，不新增标题或广告文案。"
